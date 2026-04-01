@@ -12,3 +12,6 @@ int change() {
         return 0;
     }  
 }
+int unite(){
+    return 1;
+}

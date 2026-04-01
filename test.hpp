@@ -3,6 +3,6 @@
 
 void test();
 int change();
-
+int unite();
 
 #endif /* TEST_HPP_ */
