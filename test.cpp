@@ -12,6 +12,16 @@ int change() {
         return 0;
     }  
 }
-int unite(){
-    return 1;
+int change2() {
+    for (int i = 0; i < 5; ++i) {
+        // Do something else
+    }
+    return 2;
+}
+
+int change3() {
+    while (false) {
+        // This will never execute
+    }
+    return 3;
 }
