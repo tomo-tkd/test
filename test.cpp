@@ -12,3 +12,10 @@ int change() {
         return 0;
     }  
 }
+int change2() {
+    if(false) {
+        return 1;
+    } else {
+        return 0;
+    }  
+}
