@@ -19,3 +19,10 @@ int change2() {
         return 0;
     }  
 }
+int change3() {
+    if(true) {
+        return 1;
+    } else {
+        return 0;
+    }  
+}
