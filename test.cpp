@@ -5,3 +5,10 @@ vodi test() {
         // Do something
     }
 }
+int change() {
+    if(true) {
+        return 1;
+    } else {
+        return 0;
+    }  
+}
