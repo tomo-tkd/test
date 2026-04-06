@@ -28,4 +28,10 @@ int change3() {
 int unite() {
     return change() + change2() + change3();
 }
-
+int kaijou(int n){
+    if(n == 0){
+        return 1;
+    } else{
+        return (n*kaijou(n-1));
+    }
+}
