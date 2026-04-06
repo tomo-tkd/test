@@ -3,11 +3,8 @@
 
 void test();
 int change();
-<<<<<<< HEAD
-int unite();
-=======
 int change2();
 int change3();
->>>>>>> sub
+int unite();
 
 #endif /* TEST_HPP_ */

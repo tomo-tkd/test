@@ -25,3 +25,7 @@ int change3() {
     }
     return 3;
 }
+int unite() {
+    return change() + change2() + change3();
+}
+
